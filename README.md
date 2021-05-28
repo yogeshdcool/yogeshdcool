@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yogeshdcool
+- 👀 I’m interested in linux,python,programming,physics
+- 🌱 I’m currently improving my programming knowledge
+- 💞️ I’m looking to collaborate with anyone
+- 📫 you can reach me at dyogesh.official@gmail.com
